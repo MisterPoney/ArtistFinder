@@ -2,7 +2,7 @@
 
 Objetivo:
 
-Desenvolver sistema de cadastro de agendamentos de teste para atores e artistas, onde o usuário possa entrar, criar testes para pessoas se inscreverem. Os artistas que se inscreverem, mandaram um video teste para os produtores, se o video teste for aprovado pelo produtor, ele podera fazer um agendamento para uma reniao com o artista. O produtor pode cadastrar Diretores e outras pessoas.
+Desenvolver sistema de cadastro de agendamentos de teste para atores e artistas, onde o usuário possa entrar, criar testes para pessoas se inscreverem. Os artistas que se inscreverem, mandarao um video teste para os produtores, se o video teste for aprovado pelo produtor, ele podera fazer um agendamento para uma reniao com o artista. O produtor pode cadastrar Diretores e outras pessoas.
 
  
 
